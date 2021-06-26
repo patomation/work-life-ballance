@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Firefox Work
+Exec=firefox -P work -no-remote --class workProfile
+Icon=firefox
+Type=Application
+StartupNotify=True
+StartupWMClass=workProfile
